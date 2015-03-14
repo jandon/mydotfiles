@@ -14,8 +14,6 @@ alias zshconfig="subl ~/.zshrc"
 alias ohmyzsh="subl ~/.oh-my-zsh"
 alias grep="grep --color=auto"
 
-DEFAULT_USER=qijiandong
-
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
 
